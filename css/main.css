@@ -1,0 +1,118 @@
+body h1{
+	 font-family: 'Covered By Your Grace', cursive;
+}
+
+
+body h2{
+	font-family: 'Covered By Your Grace', cursive;
+}
+
+body h3{
+	font-family: 'Covered By Your Grace', cursive;
+}
+
+
+.top-bar-section ul li > a{
+	font-family: 'Covered By Your Grace', cursive;
+
+}
+
+
+
+main{
+	
+	padding: 0;
+}
+
+main h1{
+	color: black;	
+}
+
+section h1{
+	color: white;
+}
+
+
+figure.hero {
+ margin: 0;
+ position: relative;
+}
+figure.hero img {
+ width: 100%;
+}
+figure.hero figcaption {
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+}
+
+
+
+
+footer{
+	background-color:  #0288D1;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+	padding: 3rem 0;
+
+}
+
+footer a{
+	text-align: right;
+color: white;
+font-size: 1.5rem;
+
+}
+
+footer h3{
+	color: white;
+}
+
+footer p{
+	padding: none;
+}
+
+footer h4{
+	font-size: 8rem;
+
+}
+
+footer .logo{
+	height: 3rem;
+}
+
+header .logo {
+	height: 3rem;
+}
+
+
+
+
+
+.top-bar-section li:not(.has-form) a:not(.button){
+	background-color: #0288D1;
+
+
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover{
+	background-color: #D32F2F;
+
+
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button){
+	background-color: #D32F2F;
+
+
+}
+
+
+
+.top-bar{
+	color: #0288D1;
+	background-color:  #0288D1;
+	}
+
+
